@@ -5,3 +5,5 @@
 I write articles to share my learning on [Medium](https://medium.com/@ashchk)
 
 Follow me on medium [@ashchk](https://medium.com/@ashchk) to read my articles. Feel free to give feedback on my articles.
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ashchk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ashchk/0" alt="Recent Article 0"> 
